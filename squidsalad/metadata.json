@@ -2,7 +2,7 @@
   "name": "SquidSalad",
   "symbol": "SQUALAD",
   "description": "Legend has it Satoshi Nakamoto’s favorite meal was Squid Salad. Now it’s a meme coin on Solana, proving even crypto gods love a good toss.",
-  "image": "https://raw.githubusercontent.com/minakilabs/solana-tokens/blob/master/squidsalad/squidsalad-perfect.png", 
+  "image": "https://raw.githubusercontent.com/minakilabs/solana-tokens/refs/heads/master/squidsalad/squidsalad-perfect.png", 
   "extensions": {
     "website": "https://squidsalad.minakilabs.com",
     "twitter": "https://twitter.com/squidsalad",
