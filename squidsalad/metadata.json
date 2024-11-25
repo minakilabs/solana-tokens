@@ -1,0 +1,11 @@
+{
+  "name": "SquidSalad",
+  "symbol": "SQUALAD",
+  "description": "Legend has it Satoshi Nakamoto’s favorite meal was Squid Salad. Now it’s a meme coin on Solana, proving even crypto gods love a good toss.",
+  "image": "https://raw.githubusercontent.com/minakilabs/crancoin/refs/heads/master/cran-best.png", 
+  "extensions": {
+    "website": "https://www.crancoin.com",
+    "twitter": "https://twitter.com/crancoin",
+    "telegram": "https://t.me/crancoin"
+  }
+}
